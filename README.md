@@ -1,4 +1,4 @@
-# voice-ai react
+# AI Voice Convertor React
 
 This is a React application that allows users to engage in voice-based conversations with AI personalities. Users can create their own distinct AI personality and experience real-time, interactive conversations with AI.
 
